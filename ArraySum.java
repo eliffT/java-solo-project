@@ -13,4 +13,5 @@ public class ArraySum {
         }
         System.out.println("Sum Result : " + sum);
     }
+
 }
